@@ -3,6 +3,6 @@ node_modules
 .DS_Store
 package-lock.json
 
-book/node_modules
-book/.git
-book/.gitignore
+
+# react-client
+book
